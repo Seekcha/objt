@@ -1,0 +1,5 @@
+classes = 2
+train = train/_annotations.txt
+valid = valid/_annotations.txt
+names = obj.names
+backup = /content/gdrive/MyDrive/yolov4/objt
